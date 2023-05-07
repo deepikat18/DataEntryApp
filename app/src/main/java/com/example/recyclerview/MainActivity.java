@@ -62,11 +62,11 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        arrContacts.add(new ContactModel(R.drawable.girl1,"deepika","3977349788"));
-        arrContacts.add(new ContactModel(R.drawable.girl2,"Z","3977349788"));
-        arrContacts.add(new ContactModel(R.drawable.girl3,"A","3977349788"));
+        arrContacts.add(new ContactModel(R.drawable.girl1,"Deepika","3977349788"));
+        arrContacts.add(new ContactModel(R.drawable.girl2,"Sonia","3977349788"));
+        arrContacts.add(new ContactModel(R.drawable.girl3,"Supriya","3977349788"));
         arrContacts.add(new ContactModel(R.drawable.girl4,"deepish","3977349788"));
-        arrContacts.add(new ContactModel(R.drawable.girl5,"A","3977349788"));
+        arrContacts.add(new ContactModel(R.drawable.girl5,"","3977349788"));
         arrContacts.add(new ContactModel(R.drawable.girl6,"B","3977349788"));
         arrContacts.add(new ContactModel(R.drawable.girl7,"C","3977349788"));
         arrContacts.add(new ContactModel(R.drawable.girl8,"D","3977349788"));
